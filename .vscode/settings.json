@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "editor.minimap.maxColumn": 80,
+  "editor.rulers": [80],
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wrappingIndent": "indent"
+}
